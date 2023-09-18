@@ -1,0 +1,2 @@
+dataset,shots,clip_encoder,image_layer,text_layer,text_aug,image_aug,image_views,modality,init,logit,hyper,hyperparameter,iter_mean,iter_std,eval_type,val_acc_mean,val_acc_std,test_acc_mean,test_acc_std
+peel,32,ViT-B/16,0,0,hand_crafted,none,1,uni_modal,zeroshot,4.60517,linear,"['optim_adamw-lr_0.001-wd_0.0-bs_8-iters_12800', 'optim_adamw-lr_0.001-wd_0.0-bs_8-iters_12800', 'optim_adamw-lr_0.001-wd_0.0-bs_8-iters_12800']",1500.0,1909.6247449870004,head,0.989247311827957,0.0030413194889744055,0.9839506172839506,0.006983770678385665

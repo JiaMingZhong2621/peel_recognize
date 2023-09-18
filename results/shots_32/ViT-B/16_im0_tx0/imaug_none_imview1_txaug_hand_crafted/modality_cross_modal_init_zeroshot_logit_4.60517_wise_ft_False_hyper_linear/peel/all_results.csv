@@ -1,0 +1,2 @@
+dataset,shots,clip_encoder,image_layer,text_layer,text_aug,image_aug,image_views,modality,init,logit,hyper,hyperparameter,iter_mean,iter_std,eval_type,val_acc_mean,val_acc_std,test_acc_mean,test_acc_std
+peel,32,ViT-B/16,0,0,hand_crafted,none,1,cross_modal,zeroshot,4.60517,linear,['optim_adamw-lr_0.001-wd_0.01-bs_8-iters_12800'],200.0,0.0,head,0.9935483870967742,0.0,0.9888888888888889,0.0
